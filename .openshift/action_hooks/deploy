@@ -1,0 +1,3 @@
+#!/bin/sh
+
+puppet apply $OPENSHIFT_REPO_DIR/.openshift/puppet/init.pp
